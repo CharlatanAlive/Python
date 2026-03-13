@@ -1,0 +1,8 @@
+Name = "Dracarys"           #str()
+Age = "3000+"               #int()
+Murder = "1.2m"             #float()
+is_a_dragon = True          #bool()
+print(Name)
+print(Age)
+print(Murder)
+print(is_a_dragon)
